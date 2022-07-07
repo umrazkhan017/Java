@@ -6,3 +6,18 @@ System.out.println("Hello World!!");
 	}
 
 }
+
+
+public class FirstCode {
+
+	public static void main(String[] args) {
+
+int m=4,n=5;
+
+m=n++;
+
+System.out.println(m);//Value of N is assigned here n is not incremented first it's value is used then it's incremented
+System.out.println(n);
+	}
+
+}
