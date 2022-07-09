@@ -21,3 +21,8 @@ System.out.println(n);
 	}
 
 }
+
+/* static member ans static function
+
+value of these will same throught the program 
+*/
